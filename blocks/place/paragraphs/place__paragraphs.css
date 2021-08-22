@@ -1,0 +1,11 @@
+.place__paragraphs {
+    display: flex;
+    flex-direction: column;
+}
+
+@media screen and (max-width: 320px) {
+    .place__paragraphs {
+        width: 288px;
+        margin: 0 auto;  
+    }
+}

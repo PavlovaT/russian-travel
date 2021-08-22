@@ -1,0 +1,22 @@
+.footer__link {
+    font-family: Inter;
+    padding-right: 18px;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 18px;
+    text-decoration: none;
+    color: white;
+}
+
+.footer__link:last-of-type {
+    padding-right: 0;
+}
+
+@media screen and (max-width: 320px) {
+    .footer__link {
+        font-weight: normal;
+        font-size: 24px;
+        line-height: 24px;
+        padding-bottom: 32px;
+    }
+}
