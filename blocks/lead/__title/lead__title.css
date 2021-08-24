@@ -8,6 +8,12 @@
     text-align: center;
 }
 
+@media screen and (max-width: 680px) {
+    .lead__title {
+        font-size: 45px;
+    }
+}
+
 @media screen and (max-width: 320px) {
     .lead__title {
         font-weight: 900;
