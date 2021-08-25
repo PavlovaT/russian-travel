@@ -8,3 +8,16 @@
 .place:last-of-type {
     padding-bottom: 0;
 }
+
+@media screen and (max-width: 927px) {
+    .place { 
+        padding-bottom: 73px;
+    }
+}
+
+@media screen and (max-width: 719px) {
+    .place { 
+        flex-direction: column;
+        padding-bottom: 50px;
+    }
+}
