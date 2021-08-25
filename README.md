@@ -11,4 +11,4 @@ Alt-H1
 * Cover
 
 # h2 Проект направлен на закрепление навыков по адаптивной верстке
-# h2 Ссылка на проект: https://github.com/PavlovaT/russian-travel
+# h2 Ссылка на проект: https://pavlovat.github.io/russian-travel-pavlova/
