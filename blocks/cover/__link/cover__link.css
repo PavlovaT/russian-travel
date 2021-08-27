@@ -4,6 +4,7 @@
     min-height: 740px;
     color: white;
     background-image: url(../../../sprint-3-images/cover-trains.jpg);
+    background-position: center;
     background-size: cover;
     margin: 0;
     position: relative;
